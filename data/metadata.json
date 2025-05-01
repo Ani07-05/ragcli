@@ -1,0 +1,17 @@
+{
+  "repositories": {
+    "test_repository": {
+      "description": "Test repository for document processing",
+      "created_at": "2025-05-01T09:58:30.283127",
+      "last_updated": "2025-05-01T09:59:10.062974",
+      "document_count": 1
+    },
+    "windows_log_repository": {
+      "description": "",
+      "created_at": "2025-05-01T11:58:18.708434",
+      "last_updated": "2025-05-01T12:07:57.706387",
+      "document_count": 4
+    }
+  },
+  "created_at": "2025-05-01T09:58:30.277588"
+}

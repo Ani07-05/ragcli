@@ -1,0 +1,26 @@
+{
+  "id": "5ac0e6f8-d345-42e1-bafd-3bc77c085861",
+  "filename": "mlreport.pdf",
+  "extension": ".pdf",
+  "processed_at": "2025-05-01T09:58:30.291222",
+  "repository": "test_repository",
+  "total_pages": 4,
+  "pages": [
+    {
+      "page_num": 1,
+      "file": "page_1.md"
+    },
+    {
+      "page_num": 2,
+      "file": "page_2.md"
+    },
+    {
+      "page_num": 3,
+      "file": "page_3.md"
+    },
+    {
+      "page_num": 4,
+      "file": "page_4.md"
+    }
+  ]
+}

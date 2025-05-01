@@ -1,0 +1,64 @@
+{
+  "id": "8f129e96-f089-4c3f-b818-72b8ff2f83f2",
+  "filename": "Windows_2k.log",
+  "extension": ".log",
+  "processed_at": "2025-05-01T12:07:57.696827",
+  "repository": "windows_log_repository",
+  "document_type": "log",
+  "classification": {
+    "type": "log",
+    "extension": ".log",
+    "specifics": {
+      "log_levels": [],
+      "first_timestamp": "2016-09-28 04:30:30",
+      "last_timestamp": "2016-09-29 02:04:40",
+      "log_type": "windows"
+    }
+  },
+  "total_chunks": 2,
+  "chunk_strategy": "fixed_size",
+  "chunks": [
+    {
+      "chunk_num": 1,
+      "file": "chunk_1.log",
+      "metadata": {
+        "start_line": 1,
+        "end_line": 1000,
+        "line_count": 1000,
+        "log_levels": {
+          "DEBUG": 0,
+          "INFO": 0,
+          "WARNING": 0,
+          "ERROR": 0,
+          "CRITICAL": 0
+        }
+      }
+    },
+    {
+      "chunk_num": 2,
+      "file": "chunk_2.log",
+      "metadata": {
+        "start_line": 1001,
+        "end_line": 2000,
+        "line_count": 1000,
+        "log_levels": {
+          "DEBUG": 0,
+          "INFO": 0,
+          "WARNING": 0,
+          "ERROR": 0,
+          "CRITICAL": 0
+        }
+      }
+    }
+  ],
+  "total_lines": 2000,
+  "log_metadata": {
+    "first_timestamp": "2016-09-28 04:30:30",
+    "last_timestamp": "2016-09-29 02:04:40",
+    "timespan_hours": 21.569444444444443,
+    "log_level_counts": {},
+    "error_count": 0,
+    "warning_count": 0,
+    "unique_components": []
+  }
+}
